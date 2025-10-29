@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(#ffdff8, #c9f1ff);
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+  overflow: hidden;
+}
+
+h1 {
+  color: #ff84b7;
+  text-shadow: 1px 1px 3px white;
+}
+
+canvas {
+  background: linear-gradient(#fff7fb, #d6f3ff);
+  border: 3px solid #ffb6d9;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+
+#message {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #ff6fa9;
+  font-weight: bold;
+}
